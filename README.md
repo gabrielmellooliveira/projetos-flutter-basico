@@ -1,6 +1,4 @@
-# projetos-flutter-basico
-
-Projetos de Flutter nível básico
+# Projetos de Flutter - Básico
 
 ## Primeiro app
 
