@@ -15,3 +15,7 @@ Nesse app, é apresentado alguns widgets básicos do Flutter (ElevatedButton)
 ## Quarto app
 
 Nesse app, é apresentado alguns widgets básicos do Flutter (Icon, IconButton, Image, Expanded)
+
+## Quinto app
+
+Nesse app, é apresentado alguns widgets básicos do Flutter (Center, Stack, ClipRRect, Scaffold, AppBar)
