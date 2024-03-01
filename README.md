@@ -11,3 +11,7 @@ Nesse app, é apresentado alguns widgets básicos do Flutter (MaterialApp, Conta
 ## Terceiro app
 
 Nesse app, é apresentado alguns widgets básicos do Flutter (ElevatedButton)
+
+## Quarto app
+
+Nesse app, é apresentado alguns widgets básicos do Flutter (Icon, IconButton, Image, Expanded)
