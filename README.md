@@ -19,3 +19,7 @@ Nesse app, é apresentado alguns widgets básicos do Flutter (Icon, IconButton, 
 ## Quinto app
 
 Nesse app, é apresentado alguns widgets básicos do Flutter (Center, Stack, ClipRRect, Scaffold, AppBar)
+
+## Sexto app
+
+Nesse app, é apresentado o conceito de StatelessWidget e StatefulWidget
