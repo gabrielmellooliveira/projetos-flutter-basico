@@ -7,7 +7,7 @@ void main() {
     home: HomeScreen(),
     routes: {
       '/home': (context) => HomeScreen(),
-      '/product': (context) => ProductScreen(title: 'Playstation 5'),
+      '/product': (context) => ProductScreen(),
     },
   ));
 }
