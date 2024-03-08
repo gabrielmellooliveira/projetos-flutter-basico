@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622527500636",
+    "project_id": "notification-flutter-a9bb1",
+    "storage_bucket": "notification-flutter-a9bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622527500636:android:fb1cce971eb4e71e197199",
+        "android_client_info": {
+          "package_name": "com.example.decimo_terceiro_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtuQHG2oYvgCOYKIQ2PoaYeCbZVJYuCgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
