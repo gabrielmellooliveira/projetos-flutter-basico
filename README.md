@@ -1,53 +1,29 @@
 # Projetos de Flutter - Básico
 
-## Primeiro app
+## Listagem dos apps
 
-Nesse app, é apresentado a estrutura de um projeto Flutter
+- **Primeiro app**: É apresentado a estrutura de um projeto Flutter
 
-## Segundo app
+- **Segundo app**: É apresentado alguns widgets básicos do Flutter (MaterialApp, Container, Text, Column, Row)
 
-Nesse app, é apresentado alguns widgets básicos do Flutter (MaterialApp, Container, Text, Column, Row)
+- **Terceiro app**: É apresentado alguns widgets básicos do Flutter (ElevatedButton)
 
-## Terceiro app
+- **Quarto app**: É apresentado alguns widgets básicos do Flutter (Icon, IconButton, Image, Expanded)
 
-Nesse app, é apresentado alguns widgets básicos do Flutter (ElevatedButton)
+- **Quinto app**: É apresentado alguns widgets básicos do Flutter (Center, Stack, ClipRRect, Scaffold, AppBar)
 
-## Quarto app
+- **Sexto app**: É apresentado o conceito de StatelessWidget e StatefulWidget
 
-Nesse app, é apresentado alguns widgets básicos do Flutter (Icon, IconButton, Image, Expanded)
+- **Setimo app**: É apresentado alguns widgets básicos de Formulario (Form, TextFormField)
 
-## Quinto app
+- **Oitavo app**: É apresentado o conceito de Navegação
 
-Nesse app, é apresentado alguns widgets básicos do Flutter (Center, Stack, ClipRRect, Scaffold, AppBar)
+- **Nono app**: É apresentado conceito de service e consumo de APIs
 
-## Sexto app
+- **Decimo app**: É apresentado mais conceitos de service e consumo de APIs
 
-Nesse app, é apresentado o conceito de StatelessWidget e StatefulWidget
+- **Decimo primeiro app**: É apresentado o uso de camera (tirar foto e carregar foto da galeria)
 
-## Setimo app
+- **Decimo segundo app**: É apresentado conceito de gerenciamento de estados com provider
 
-Nesse app, é apresentado alguns widgets básicos de Formulario (Form, TextFormField)
-
-## Oitavo app
-
-Nesse app, é apresentado o conceito de Navegação
-
-## Nono app
-
-Nesse app, é apresentado conceito de service e consumo de APIs
-
-## Decimo app
-
-Nesse app, é apresentado mais conceitos de service e consumo de APIs
-
-## Decimo primeiro app
-
-Nesse app, é apresentado o uso de camera (tirar foto e carregar foto da galeria)
-
-## Decimo segundo app
-
-Nesse app, é apresentado conceito de gerenciamento de estados com provider
-
-## Decimo terceiro app
-
-Nesse app, é apresentado conceito de push notification com firebase
+- **Decimo terceiro app**: É apresentado conceito de push notification com firebase
